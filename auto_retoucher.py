@@ -928,4 +928,4 @@ with gr.Blocks(theme=theme, css=css, title='Auto Retoucher SDXL') as demo:
 
 if __name__ == '__main__':
     demo.queue(default_concurrency_limit=1)
-    demo.launch()
+    demo.launch(share=True)
