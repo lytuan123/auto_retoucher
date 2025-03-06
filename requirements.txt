@@ -5,9 +5,7 @@ opencv-python
 opencv-python-headless
 Pillow
 scipy
-torch
 transformers
 diffusers
-xformers
 accelerate
 omegaconf
